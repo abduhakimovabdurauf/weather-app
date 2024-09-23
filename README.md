@@ -15,3 +15,6 @@ A simple web application to fetch and display weather information! Users can inp
 - CSS
 - JavaScript
 - [OpenWeatherMap API](https://openweathermap.org/api)
+
+
+Look the result:  https://abduhakimovabdurauf.github.io/weather-app/
